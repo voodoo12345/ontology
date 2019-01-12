@@ -1,11 +1,8 @@
 .. _root:
 
-.. image:: rtd_pages/images/beam-logo.jpg
-   :scale: 15
-   :align: right
 
 
-Welcome to Beam documentation!
+Welcome to Ontology documentation!
 ==============================
 
 
@@ -14,31 +11,29 @@ Welcome to Beam documentation!
 Announcement
 ------------
 
-.. note:: Beam is currently in Mainnet.
+.. note:: Ontology is currently in Mainnet.
 
-	Rules Signature: ed91a717313c6eb0
+	Download binaries from: `Ontology Downloads Page <https://github.com/ontio/ontology/releases>`_
 
-	Download binaries from: `Beam Downloads Page <http://beam.mw/downloads>`_
-
-	Source code: `Beam Github <https://github.com/BeamMW/beam>`_
+	Source code: `Ontology Github <https://github.com/ontio/ontology>`_
 
 
 **TLDR;**
 
-:ref:`I want to Mine Beam<mining_beam>`
+:ref:`I want to run a node<mining_beam>`
 
-:ref:`I want to learn how to use Beam Desktop Wallet<desktop_wallet_guide>`
+:ref:`I want to learn how to use Owallet Desktop Wallet<desktop_wallet_guide>`
 
-:ref:`I want to learn how to use Beam Command Line Wallet<command_line_wallet_user_guide>`
+:ref:`I want to learn how to use BOntology Command Line Wallet<command_line_wallet_user_guide>`
 
 
 
-What is Beam?
+What is Ontology?
 --------------
 
-`Beam <https://beam.mw/>`_ is a next generation scalable, confidential cryptocurrency based on an elegant and innovative `Mimblewimble protocol <https://scalingbitcoin.org/papers/mimblewimble.txt>`_.
+`Ontology <https://ont.io/>`_ Ontology is a new generation of high-performance public blockchains. The infrastructure is scalable, stable, and allows low-level customization for different business requirements. <https://ont.io/wp/Ontology-technology-white-paper-EN.pdf>`_.
 
-Things that make BEAM special include:
+Things that make Ontology special include:
 
 * Users have complete control over privacy - a user decides which information will be available and to which parties, having complete control over his personal data in accordance to his will and applicable laws.
 
