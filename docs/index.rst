@@ -109,7 +109,7 @@ In most blockchains, information about current UTXOs and the transaction history
 
 In Ontology, only UTXOs can be recovered from the blockchain. All other information, including transaction history and any other meta data are only stored locally in the Beam Wallet database and encrypted by :ref:`Wallet Password<wallet password>`. 
 
-This means that if you run Beam Wallet on two different machines, transaction history **WILL NOT** be synchronized.
+This means that if you run Ontology Wallet on two different machines, transaction history **WILL NOT** be synchronized.
 
 This also means, that to preserve transaction history, or any additional meta data, it is necessary to regularly backup Beam Wallet database file.
 
@@ -132,7 +132,7 @@ To report issues and get support please perform the following steps:
    * Screen shots or any additional information you think is relevant
 
 
-2. Send an email to support@beam.mw (or testnet@beam.mw for testnet related issues).
+2. Send an email to contact@ont.io (or tech@ont.io for testnet related issues).
 
    You can also open an issue in github and follow the provided template.
 
