@@ -24,7 +24,7 @@ Announcement
 
 :ref:`I want to learn how to use Owallet Desktop Wallet<desktop_wallet_guide>`
 
-:ref:`I want to learn how to use BOntology Command Line Wallet<command_line_wallet_user_guide>`
+:ref:`I want to learn how to use Ontology Command Line Wallet<command_line_wallet_user_guide>`
 
 
 
