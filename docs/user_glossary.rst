@@ -75,4 +75,4 @@ Walet Password
 
 Transactions
 
-	In `mimblewimble`_ protocol transactions contain of Inputs, Outputs and Kernels. Each input and output are represented by Pedersen Commiments in a form: P = v*H + b*G, where v is transaction value, b is the `blinding factor`_ and G and H are two known 'nothing up my sleeve' generator points on the same elliptic curve.
+	transactions contain of Inputs, Outputs and Kernels. Each input and output are represented by Pedersen Commiments in a form: P = v*H + b*G, where v is transaction value, b is the `blinding factor`_ and G and H are two known 'nothing up my sleeve' generator points on the same elliptic curve.
